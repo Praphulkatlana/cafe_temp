@@ -15,7 +15,7 @@ const Header = () => {
 
         </div>
         <div className="account">
-            <p>signup</p>
+            <p>Signup</p>
         </div>
 
     </header>  
